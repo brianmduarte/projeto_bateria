@@ -1,10 +1,10 @@
-Projeto Bateria Musical
-
-Oláaa! Seja muito bem vindo a mais um projeto!
+<h3>Projeto Bateria Musical 🥁 </h3>
 <hr>
 
-O objetivo deste projeto foi desenvolver uma baterial musical e permitir que o usuário crie os sons que desejar. Para isso, utilizou-se alguns recursos importantes do Javascript para tornar o projeto possível, dentre eles os eventos de teclado, manipulação de classes, loops e condicionais. 
+Oláaa 😎 ! Seja muito bem vindo a mais um projeto!
+
+O objetivo deste projeto foi desenvolver uma baterial musical e permitir que o usuário interaja criando os sons que desejar. Para isso, foi utilizado vários recursos importantes do Javascript para tornar o projeto possível, dentre eles os eventos de teclado, manipulação de classes, loops e funções condicionais. 
 
 Para conhecer e se divertir um pouco com o projeto, basta acessar a Bateria
 
-Forte abraço e bons estudos!
+Forte abraço e bons estudos! 🤙
